@@ -1,0 +1,1 @@
+web: gunicorn travel_report.wsgi --log-file -
